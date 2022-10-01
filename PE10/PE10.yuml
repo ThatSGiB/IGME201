@@ -1,0 +1,12 @@
+// {type:class}
+// {generate:true}
+// {direction:topDown}
+[+A:HotDrink|+Drink()|+AddMilk()|+AddSugar()|Milk|Sugar]
+[+I:ICup|Refill()|Wash()|Color|Volume]
+[+CupOfCoffee|BeanType]
+[CupOfTea|LeafType]
+
+[+I:ICup]^[+A:HotDrink]
+
+[+A:HotDrink]<-.-[CupOfCoffee]
+[+A:HotDrink]<-.-[CupOfTea]

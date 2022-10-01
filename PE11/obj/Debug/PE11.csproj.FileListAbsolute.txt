@@ -1,0 +1,2 @@
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE11\obj\Debug\PE11.csproj.AssemblyReference.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE11\obj\Debug\PE11.csproj.CoreCompileInputs.cache
