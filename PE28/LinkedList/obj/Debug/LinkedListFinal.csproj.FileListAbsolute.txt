@@ -1,0 +1,26 @@
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedListFinal.csprojAssemblyReference.cache
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.LinkedList.resources
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.Properties.Resources.resources
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedListFinal.csproj.GenerateResource.cache
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedListFinal.csproj.CoreCompileInputs.cache
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedListFinal.exe.config
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedListFinal.exe
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedListFinal.pdb
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedListVisualizer.dll
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedListVisualizer.pdb
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedListFinal.csproj.CopyComplete
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedListFinal.exe
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedListFinal.pdb
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\bin\Debug\LinkedListFinal.exe.config
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\bin\Debug\LinkedListFinal.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\bin\Debug\LinkedListFinal.pdb
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\bin\Debug\LinkedListVisualizer.pdb
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedListFinal.csproj.AssemblyReference.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedListFinal.csproj.SuggestedBindingRedirects.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedList.LinkedList.resources
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedList.Properties.Resources.resources
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedListFinal.csproj.GenerateResource.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedListFinal.csproj.CoreCompileInputs.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedListFinal.csproj.CopyComplete
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedListFinal.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\IGME201\PE28\LinkedList\obj\Debug\LinkedListFinal.pdb
